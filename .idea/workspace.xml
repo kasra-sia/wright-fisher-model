@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bb40d2c-97ac-4833-b7b2-04d513b0176f" name="Changes" comment="initial commit">
-      <change beforePath="$PROJECT_DIR$/run_simulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_simulation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simulation/plotting.py" beforeDir="false" afterPath="$PROJECT_DIR$/simulation/plotting.py" afterDir="false" />
-    </list>
+    <list default="true" id="1bb40d2c-97ac-4833-b7b2-04d513b0176f" name="Changes" comment="initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +34,8 @@
   &quot;keyToString&quot;: {
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.run_simulation.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/kasra-sia/Documents/farayand/extera/wright-fisher-model&quot;
   }
 }</component>
   <component name="RunManager">
@@ -54,7 +52,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_simulation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/run_simulation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
